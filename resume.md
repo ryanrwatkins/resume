@@ -415,9 +415,7 @@ Faruque, F., Watkins, R., Medsker, L. (2021). Competency Model Approach to AI Li
 Faruque, F., Watkins, R., Medsker, L. (2020). Monitoring Trust in Human-Machine Interactions for Public Sector Applications. arXiv. [paper presented at AAAI 2020 Fall Symposium]
 
 
-### Blind Peer-Reviewed 
-
-## Publications
+### Blind Peer-Reviewed Publications
 
 
 Liu, S., Chu, C., Grey, B., Grim, P., Hall, A., Watkins, R. (submitted). Exploring the Impact of Generative AI on Student Problem-Solving in Computer Programming Labs. ACM Transactions on Computing Education (TOCE)
@@ -483,12 +481,10 @@ Kaufman, R. and Watkins, R. (1996). Cost-Consequences Analysis. Human Resources 
 ­
 
 
-### Chapters in 
-
-## Books
+### Chapters in Books
 
 
-Watkins, R., and Jorgenson, H. (submitted). LLMs in Research.
+Watkins, R., and Jorgenson, H. (in press). LLMs in Research: Opportunities, Risks, and Ethics. In Medsker, L (Ed.) (in press) AI and Ethics Handbook. 
 
 Faruqe, F., Medsker, L., Watkins, R. (2023). ATIAS: A Model for Understanding Intentions to Use AI Technology. In: Daimi, K., Alsadoon, A., Coelho, L. (eds) Cutting Edge Applications of Computational Intelligence Tools and Techniques. Studies in Computational Intelligence, vol 1118. Springer, Cham. [https://doi.org/[https://doi.org/10.1007/978-3-031-44127-1_5](https://doi.org/10.1007/978-3-031-44127-1_5](https://doi.org/[https://doi.org/10.1007/978-3-031-44127-1_5](https://doi.org/10.1007/978-3-031-44127-1_5))
 
