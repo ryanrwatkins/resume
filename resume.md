@@ -563,10 +563,9 @@ Kaufman, R., Watkins, R. And Leigh, D. (1998). What is Your Organization's Quali
 Kaufman, R. and Watkins, R. (1996) Mega Planning: A framework for integrating strategic planning, needs assessment, quality management, benchmarking, and reengineering. In Jones, J. E. & Biech, E. (Ed.). The HR Handbook, Vol. 1. Amherst MA., HRD Press.
 
 
-### Editor Reviewed Journals and 
+### Editor Reviewed Journals and Publications
 
-## Publications
-
+Magana, A., Watkins, R., & Vieira, C. (2026) Generative Artificial Intelligence in Support of Engineering Education Research and Other STEM Disciplines. Journal of Engineering Education. 115(1).
 
 Kurtz, G., Salmon, G., Watkins, R., Kaltz, M., and Buchem, I. (2024). Special Issue: The Integration of Generative AI in Teaching and Learning. European Journal of Open, Distance and E-Learning, 26(S1).
 
